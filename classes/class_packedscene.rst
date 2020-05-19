@@ -18,7 +18,7 @@ Description
 
 A simplified interface to a scene file. Provides access to operations and checks that can be performed on the scene resource itself.
 
-Can be used to save a node to a file. When saving, the node as well as all the node it owns get saved (see ``owner`` property on :ref:`Node<class_Node>`).
+Can be used to save a node to a file. When saving, the node as well as all the nodes it owns get saved (see ``owner`` property on :ref:`Node<class_Node>`).
 
 **Note:** The node doesn't need to own itself.
 
